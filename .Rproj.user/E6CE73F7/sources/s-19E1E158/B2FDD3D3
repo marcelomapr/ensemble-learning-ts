@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1531133323221.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B2FDD3D3",
+    "lastKnownWriteTime" : 1531133347,
+    "last_content_update" : 1531133470716,
+    "path" : "C:/Users/marce/OneDrive/Documentos/ensemble-learning-ts/original.R",
+    "project_path" : "original.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
